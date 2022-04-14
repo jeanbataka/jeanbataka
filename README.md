@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jeanbataka/jeanbataka/blob/master/devcard.svg" width="400" alt="Jean Bataka Dev Card"/></a>
-
+<a href="https://app.daily.dev/Anonymous2406"><img src="https://github.com/jeanbataka/jeanbataka/blob/master/devcard.svg" width="400" alt="Jean Bataka's Dev Card"/></a>
 <!--
 **jeanbataka/jeanbataka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
