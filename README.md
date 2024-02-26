@@ -13,7 +13,7 @@ To automate my tasks I don't hesitate to use [Github Actions](https://github.com
 
 > I'm open to any project proposals and collaborations
 
-- 🔭 I am currently working as a backend web developer on a web application for microfinance which among other things allows to manage customer accounts, tontines, their savings and much more.
+- 🔭 I am currently working as a backend web developer on a web application for microfinance which among other things allows to manage customer accounts, their savings and much more.
 - 🌱 I’m currently learning cloud technologies (Aws and Google cloud) and Golang
 - 💬 Ask me everything about Laravel, VueJs
 - ⚡ Fun fact: I like playing video games 😉
